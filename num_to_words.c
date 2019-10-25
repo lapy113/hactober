@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//code start
 int main()
 {
     int n, num = 0;
